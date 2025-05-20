@@ -1,0 +1,28 @@
+H:\server\LessonEight\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.exe
+H:\server\LessonEight\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.deps.json
+H:\server\LessonEight\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.runtimeconfig.json
+H:\server\LessonEight\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.dll
+H:\server\LessonEight\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.pdb
+H:\server\LessonEight\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+H:\server\LessonEight\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.AssemblyInfoInputs.cache
+H:\server\LessonEight\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.AssemblyInfo.cs
+H:\server\LessonEight\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.csproj.CoreCompileInputs.cache
+H:\server\LessonEight\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.dll
+H:\server\LessonEight\DesignPattern\DesignPattern\obj\Debug\net8.0\refint\DesignPattern.dll
+H:\server\LessonEight\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.pdb
+H:\server\LessonEight\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.genruntimeconfig.cache
+H:\server\LessonEight\DesignPattern\DesignPattern\obj\Debug\net8.0\ref\DesignPattern.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern\ציבי זלוטניק ומרימי צדקה\DesignPattern\bin\Debug\net8.0\DesignPattern.exe
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern\ציבי זלוטניק ומרימי צדקה\DesignPattern\bin\Debug\net8.0\DesignPattern.deps.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern\ציבי זלוטניק ומרימי צדקה\DesignPattern\bin\Debug\net8.0\DesignPattern.runtimeconfig.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern\ציבי זלוטניק ומרימי צדקה\DesignPattern\bin\Debug\net8.0\DesignPattern.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern\ציבי זלוטניק ומרימי צדקה\DesignPattern\bin\Debug\net8.0\DesignPattern.pdb
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern\ציבי זלוטניק ומרימי צדקה\DesignPattern\obj\Debug\net8.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern\ציבי זלוטניק ומרימי צדקה\DesignPattern\obj\Debug\net8.0\DesignPattern.AssemblyInfoInputs.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern\ציבי זלוטניק ומרימי צדקה\DesignPattern\obj\Debug\net8.0\DesignPattern.AssemblyInfo.cs
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern\ציבי זלוטניק ומרימי צדקה\DesignPattern\obj\Debug\net8.0\DesignPattern.csproj.CoreCompileInputs.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern\ציבי זלוטניק ומרימי צדקה\DesignPattern\obj\Debug\net8.0\DesignPattern.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern\ציבי זלוטניק ומרימי צדקה\DesignPattern\obj\Debug\net8.0\refint\DesignPattern.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern\ציבי זלוטניק ומרימי צדקה\DesignPattern\obj\Debug\net8.0\DesignPattern.pdb
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern\ציבי זלוטניק ומרימי צדקה\DesignPattern\obj\Debug\net8.0\DesignPattern.genruntimeconfig.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern\ציבי זלוטניק ומרימי צדקה\DesignPattern\obj\Debug\net8.0\ref\DesignPattern.dll
